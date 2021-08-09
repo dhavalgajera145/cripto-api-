@@ -222,8 +222,3 @@ pycrypto.mainloop()
 
 cursorObj.close()
 con.close()
-# 
-# dfdgggagas
-# vgf
-# /\   fvfdgfdg
-# fdgfgfd
